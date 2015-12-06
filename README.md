@@ -1,28 +1,6 @@
-﻿#Mathematics
+﻿#Verbal Expressions(Word Problems)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://www.purplemath.com/modules/translat.htm
 
 
 
