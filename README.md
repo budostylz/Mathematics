@@ -1,21 +1,6 @@
-﻿#Verbal Expressions(Word Problems)
+##Practical Knowledge 
 
-http://www.purplemath.com/modules/translat.htm
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+http://www.regentsprep.org
 
 
 
