@@ -22,6 +22,10 @@ https://www.youtube.com/watch?v=prDrpUziXMM
 
 https://www.khanacademy.org/science/physics/torque-angular-momentum/rotational-kinematics/v/relationship-between-angular-velocity-and-speed
 
+##How many revolution per minute?
+
+https://answers.yahoo.com/question/index?qid=20150915122445AASzBRg
+
 
 
 
