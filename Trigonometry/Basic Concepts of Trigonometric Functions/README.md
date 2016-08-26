@@ -26,6 +26,13 @@ https://www.khanacademy.org/science/physics/torque-angular-momentum/rotational-k
 
 https://answers.yahoo.com/question/index?qid=20150915122445AASzBRg
 
+##How to convert a whole number into a degree?
+
+https://answers.yahoo.com/question/index?qid=20110411172153AAelPJj
+
+
+
+
 
 
 
