@@ -30,6 +30,10 @@ https://answers.yahoo.com/question/index?qid=20150915122445AASzBRg
 
 https://answers.yahoo.com/question/index?qid=20110411172153AAelPJj
 
+##Testing for Symmetry with Respect to the x-axis, y-axis, and Origin
+
+https://www.youtube.com/watch?v=Z0tNDfhrOkI
+
 
 
 
