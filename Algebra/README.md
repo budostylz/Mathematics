@@ -14,6 +14,14 @@ https://www.youtube.com/watch?v=AAW7WRFBKdw
 
 https://www.youtube.com/watch?v=M6f6dANVyxA
 
+##Negative Exponents and Fractional Exponents - Examples
+
+https://www.youtube.com/watch?v=m4sX4FQOyoo
+
+##Basic Exponent Properties
+
+https://www.youtube.com/watch?v=Kr16rdBMX4o
+
 
 
 
