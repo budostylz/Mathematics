@@ -17,3 +17,11 @@ https://www.youtube.com/watch?v=Zud3aCeSLRs
 ##Inverse Trigonometric Functions, Part 5 ( Limits )
 
 https://www.youtube.com/watch?v=xwBrKu5pRJE
+
+##Entering Functions to Graph on the TI-89
+
+http://www.prenhall.com/esm/app/graphing/ti89/graphing/Entering/trig/trig.html
+
+##Finding the Domain and Range of Trig Functions
+
+https://www.youtube.com/watch?v=njhNRvVolrY
