@@ -2,9 +2,9 @@
 
 http://www.regentsprep.org
 
-##Just Math Tutoring 
+##Math Tutoring 
 
-http://justmathtutoring.com
+http://patrickjmt.com
 
 
 
