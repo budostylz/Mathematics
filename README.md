@@ -10,6 +10,10 @@ http://patrickjmt.com
 
 http://animated-mathematics.net
 
+##Practice Equations Step by Step
+
+https://www.symbolab.com/solver/equation-calculator/1%3D%5Csqrt%7B9-b%5E%7B2%7D%7D
+
 
 
 
