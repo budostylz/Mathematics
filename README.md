@@ -1,4 +1,4 @@
-##Understanding Mathematics and the Nature of Applying the Art
+#Understanding Mathematics and the Nature of Applying the Art
 
 ##Practical Knowledge 
 
