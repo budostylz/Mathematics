@@ -1,3 +1,5 @@
+##Understanding Mathematics and the Nature of Applying the Art
+
 ##Practical Knowledge 
 
 http://www.regentsprep.org
