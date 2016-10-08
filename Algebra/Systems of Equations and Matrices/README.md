@@ -8,6 +8,7 @@
 	7. Free Variable - (variable that can take many values) -> z = a -> Many Solutions
 	8. Row Operations
 
-	##Gaussian elimination
+	
+##Gaussian elimination
 
-	https://en.wikipedia.org/wiki/Gaussian_elimination
+https://en.wikipedia.org/wiki/Gaussian_elimination
