@@ -1,1 +1,0 @@
-##Calculus 1
