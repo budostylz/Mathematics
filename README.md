@@ -1,8 +1,10 @@
+
+##Understanding Mathematics and Using It
+
 ##History of mathematics
 
 https://en.wikipedia.org/wiki/History_of_mathematics
 
-##Understanding Mathematics and Using It
 
 ##Practical Knowledge 
 
