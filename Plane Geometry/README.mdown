@@ -1,6 +1,6 @@
-##Plane (geometry)
+##Greek alphabet
 
-https://en.wikipedia.org/wiki/Plane_(geometry)
+https://en.wikipedia.org/wiki/Greek_alphabet
 
 ##Given 39 points, how many lines can be drawn that contain two of the 39 points?
 
