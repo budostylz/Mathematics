@@ -1,3 +1,9 @@
 ##Plane (geometry)
 
 https://en.wikipedia.org/wiki/Plane_(geometry)
+
+##Given 39 points, how many lines can be drawn that contain two of the 39 points?
+
+∑m=1n-1 m = n(n-1)/2, with n=39
+
+https://www.wyzant.com/resources/answers/21359/given_39_points_how_many_lines_can_be_drawn_that_contain_two_of_the_39_points
