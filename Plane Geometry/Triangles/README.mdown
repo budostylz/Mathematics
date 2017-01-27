@@ -1,3 +1,7 @@
 ##Triangle
 
 https://en.wikipedia.org/wiki/Triangle
+
+##Characterization of Medial Triangles formed from Equilateral and Isosceles Triangles & Characterization of Triangles whose Medians form Right Triangles
+
+http://jwilson.coe.uga.edu/EMAT6680Fa07/Hallman/Assignmnet%206/assign%206%20tri%20meds.html
