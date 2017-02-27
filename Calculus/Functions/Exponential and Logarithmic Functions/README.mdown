@@ -9,3 +9,7 @@ https://www.youtube.com/watch?v=AAW7WRFBKdw&t=291s
 ##Exponential Functions and Their Graphs
 
 https://people.richland.edu/james/lecture/m116/logs/exponential.html
+
+##Find Range of Exponential Functions
+
+http://www.analyzemath.com/DomainRange/find_range_exponential.html
