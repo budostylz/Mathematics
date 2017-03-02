@@ -13,3 +13,7 @@ https://people.richland.edu/james/lecture/m116/logs/exponential.html
 ##Find Range of Exponential Functions
 
 http://www.analyzemath.com/DomainRange/find_range_exponential.html
+
+##Change of Base Formula
+
+http://www.mathwords.com/c/change_of_base_formula.htm
