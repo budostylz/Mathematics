@@ -1,3 +1,7 @@
+##Algebra
+
+https://en.wikipedia.org/wiki/Algebra
+
 ##Inverse Functions - The Basics!
 
 https://www.youtube.com/watch?v=nSmFzOpxhbY
