@@ -1,7 +1,7 @@
-##Finding Range
+## Finding Range
 
 https://www.youtube.com/watch?v=muOggRk-KVM
 
-##Finding the degree of a polynomial
+## Finding the degree of a polynomial
 
 https://www.youtube.com/watch?v=SEmsHsHmceM
