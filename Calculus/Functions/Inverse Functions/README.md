@@ -6,6 +6,10 @@ https://www.youtube.com/watch?v=9b8Xd77f-qk
 
 https://www.youtube.com/watch?v=du_g_ReV19Q
 
+##Determine if a Function is One To One
+
+https://www.youtube.com/watch?v=TcSL2R360Aw
+
 
 
 
