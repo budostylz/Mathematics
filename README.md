@@ -22,11 +22,11 @@ http://animated-mathematics.net
 
 https://www.symbolab.com/solver/equation-calculator/1%3D%5Csqrt%7B9-b%5E%7B2%7D%7D
 
-##Equation Calculator
+## Equation Calculator
 
 https://www.symbolab.com/solver/equation-calculator/1%3D%5Csqrt%7B9-b%5E%7B2%7D%7D
 
-##Cool Function Visualizations
+## Cool Function Visualizations
 
 https://www.desmos.com/calculator
 
