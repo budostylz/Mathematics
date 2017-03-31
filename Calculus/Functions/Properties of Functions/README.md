@@ -18,6 +18,24 @@ https://www.youtube.com/watch?v=mYEnT7hrCx0
 
 https://www.youtube.com/watch?v=UQ3a2QH_-GU
 
+##Examples with Trigonometric Functions: Even, Odd or Neither, Example 1
+
+https://www.youtube.com/watch?v=68enNRhFORc
+
+##Examples with Trigonometric Functions: Even, Odd or Neither, Example 2
+
+https://www.youtube.com/watch?v=HSpSQQNVosA&t=48s
+
+##Examples with Trigonometric Functions: Even, Odd or Neither, Example 3
+
+https://www.youtube.com/watch?v=R35BycA-RgI
+
+##Even, Odd or Neither, Trigonometric Functions, Example 4
+
+https://www.youtube.com/watch?v=lRkmNBtGkBo
+
+
+
 
 
 
