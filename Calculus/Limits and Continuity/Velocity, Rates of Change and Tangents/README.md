@@ -2,9 +2,11 @@
 
 https://www.youtube.com/watch?v=aJuJOB6NTuc&t=1s
 
-## Instantaneous Velocity from a Graph
+## What is the tangent line? (KristaKingMath)
 
-https://www.youtube.com/watch?v=33DbpJ2qGsw
+https://www.youtube.com/watch?v=1XSIPZRRX9A
+
+
 
 
 
