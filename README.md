@@ -30,7 +30,9 @@ https://www.symbolab.com/solver/equation-calculator/1%3D%5Csqrt%7B9-b%5E%7B2%7D%
 
 https://www.desmos.com/calculator
 
+## If you can do math you can do anything
 
+https://www.youtube.com/watch?v=sVBmeXkTzG4&sns=em
 
 
 
