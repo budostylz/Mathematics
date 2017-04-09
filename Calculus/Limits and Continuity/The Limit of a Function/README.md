@@ -14,7 +14,7 @@ https://www.youtube.com/watch?v=_qEOZNPce60
 
 https://www.youtube.com/watch?v=zXKzoxdJ-8A
 
-##Finding Limits From a Graph
+## Finding Limits From a Graph
 
 https://www.youtube.com/watch?v=UkjgJQaGx98
 
