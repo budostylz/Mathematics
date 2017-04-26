@@ -14,6 +14,15 @@ https://www.youtube.com/watch?v=67ggx4zn1Mo
 
 https://www.youtube.com/watch?v=WVj284EvgBI
 
+## Calculating a Limit by Multiplying by a Conjugate
+
+https://www.youtube.com/watch?v=TUPkwGlrT8A
+
+## Limits Involving Absolute Value
+
+https://www.youtube.com/watch?v=TUPkwGlrT8A
+
+
 
 
 
