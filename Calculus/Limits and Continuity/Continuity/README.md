@@ -10,6 +10,10 @@ https://www.youtube.com/watch?v=hlorAjS0xWE&t=303s
 
 https://www.youtube.com/watch?v=VUEM6vWJvE4
 
+## Continuity : Making a Piecewise Function Continuous
+
+https://www.youtube.com/watch?v=4q8QyW_cWb8
+
 
 
 
