@@ -14,6 +14,13 @@ https://www.youtube.com/watch?v=VUEM6vWJvE4
 
 https://www.youtube.com/watch?v=4q8QyW_cWb8
 
+## The Limit Definition of Continuity - Making Sense of the Definition
+
+https://www.youtube.com/watch?v=ve3CEqnK8FQ
+
+## Intermediate Value Theorem
+
+https://www.youtube.com/watch?v=6AFT1wnId9U&t=319s
 
 
 
