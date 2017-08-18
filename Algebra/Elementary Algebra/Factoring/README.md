@@ -1,4 +1,4 @@
-##Factoring the Difference of Two Squares - Ex 1
+## Factoring the Difference of Two Squares - Ex 1
 
 https://www.youtube.com/watch?v=_qyVzH3e1dY&t=27s
 
