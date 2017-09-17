@@ -1,4 +1,4 @@
-#Fundamentals
+# Fundamentals
 
 ## Elementary Algebra
 
