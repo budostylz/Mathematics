@@ -26,6 +26,34 @@ https://www.youtube.com/watch?v=m4sX4FQOyoo
 
 https://www.youtube.com/watch?v=Kr16rdBMX4o
 
+## Finding the Least Common Multiple!!
+
+https://www.youtube.com/watch?v=drZopvFRa7s
+
+## Finding the Greatest Common Factor, GCF
+
+https://www.youtube.com/watch?v=3jGAcpK2V7Q
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
