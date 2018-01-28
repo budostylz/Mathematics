@@ -34,6 +34,17 @@ https://www.youtube.com/watch?v=drZopvFRa7s
 
 https://www.youtube.com/watch?v=3jGAcpK2V7Q
 
+## Tangent Line
+
+http://mathworld.wolfram.com/TangentLine.html
+
+## Secant Line
+
+http://mathworld.wolfram.com/SecantLine.html
+
+
+
+
 
 
 
