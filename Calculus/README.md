@@ -10,3 +10,7 @@ http://mathworld.wolfram.com/TangentLine.html
 
 http://mathworld.wolfram.com/SecantLine.html
 
+## Riemann approximation introduction
+
+https://www.khanacademy.org/math/ap-calculus-ab/ab-accumulation-riemann-sums/ab-riemann-sums/v/simple-riemann-approximation-using-rectangles
+
