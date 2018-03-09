@@ -6,13 +6,12 @@
 
 ## Graph of Sine Inverse or ArcSin
 
-https://www.desmos.com/calculator/wuql33rqk4
-
+https://www.desmos.com/calculator/ybxzsrswh5
 
 ## Graph of Cosine Inverse or ArcCos
 
-https://www.desmos.com/calculator/swlz5ittjf
+https://www.desmos.com/calculator/79eipfixav
 
 ## Graph of Tan Inverse or ArcTan
 
-https://www.desmos.com/calculator/n0vtnxwrw3
+https://www.desmos.com/calculator/laekp8mnfl
