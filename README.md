@@ -38,7 +38,7 @@ https://ocw.mit.edu/index.htm
 
 https://www.youtube.com/watch?v=sVBmeXkTzG4&sns=em
 
-## Don't Forget to ROUND (1st Grade Shit)
+## Don't Forget to ROUND (1st Grade Logic)
 
 https://www.calculatorsoup.com/calculators/math/roundingnumbers.php
 
