@@ -34,10 +34,13 @@ https://www.desmos.com/calculator
 
 https://ocw.mit.edu/index.htm
 
-
 ## If you can do math you can do anything
 
 https://www.youtube.com/watch?v=sVBmeXkTzG4&sns=em
+
+## Don't Forget to ROUND (1st Grade Shit)
+
+https://www.calculatorsoup.com/calculators/math/roundingnumbers.php
 
 
 
