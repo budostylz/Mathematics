@@ -1,6 +1,6 @@
-## Combination Formula
+## Statistics
 
-http://www.mathwords.com/c/combination_formula.htm
+https://en.wikipedia.org/wiki/Statistics
 
 ## R
 
