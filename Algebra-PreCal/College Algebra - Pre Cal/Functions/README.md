@@ -1,5 +1,5 @@
 
-## Greatest Integer Function (part 1)
+## Greatest Integer Function 
 
 https://www.youtube.com/watch?annotation_id=annotation_2548832897&feature=iv&src_vid=4CVskVKquaA&v=brJcJvaVp6c
 
