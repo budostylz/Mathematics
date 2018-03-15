@@ -18,3 +18,7 @@ https://www.rdocumentation.org
 
 https://www.youtube.com/watch?v=cX532N_XLIs
 
+## Histogram Maker
+
+http://www.socscistatistics.com/descriptive/histograms/
+
