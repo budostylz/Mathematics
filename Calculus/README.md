@@ -22,3 +22,7 @@ https://www.desmos.com/calculator/r9jzqt75cp
 
 https://www.desmos.com/calculator/kxd4zhuqtd
 
+## Closest Point on a Path and Its Tangent
+
+https://bl.ocks.org/andresin87/4c5a34136c9a543d68de
+
