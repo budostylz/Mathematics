@@ -26,7 +26,7 @@ https://www.desmos.com/calculator/kxd4zhuqtd
 
 https://bl.ocks.org/andresin87/cb9c53581cdac51718d5
 
-##  Data-Driven Documents (D3 js)
+##  Data-Driven Documents (D3 JavaScript)
 
 https://d3js.org
 
