@@ -13,6 +13,10 @@ https://www.desmos.com/calculator/6xeqmgafkk
 
 https://www.desmos.com/calculator/w8nfpvnay3
 
+## Vertical Asymptote
+
+https://www.desmos.com/calculator/kpkzuugyee
+
 
 
 
