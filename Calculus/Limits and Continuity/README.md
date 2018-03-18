@@ -17,6 +17,10 @@ https://www.desmos.com/calculator/w8nfpvnay3
 
 https://www.desmos.com/calculator/kpkzuugyee
 
+## Sec(x)
+
+https://www.desmos.com/calculator/1cgb1fbnrv
+
 
 
 
