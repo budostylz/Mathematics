@@ -21,6 +21,28 @@ https://www.desmos.com/calculator/kpkzuugyee
 
 https://www.desmos.com/calculator/1cgb1fbnrv
 
+## Greatest Integer Function 
+
+https://www.youtube.com/watch?annotation_id=annotation_2548832897&feature=iv&src_vid=4CVskVKquaA&v=brJcJvaVp6c
+
+## Greatest Integer Function - more graphs
+
+https://www.youtube.com/watch?v=4CVskVKquaA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
