@@ -5,7 +5,6 @@
         try {
 
 
-            function setGrid() {
 
                 // Set graph
                 var width = 700,
@@ -51,18 +50,57 @@
                     .attr("x2", (width - (2 * padding)) / 2 * 1);
 
 
+            //define data
+            var data = [
+                // stage 1-9, intensity %, draw disk
+                { x: 1, y: 0, point: true },
+                { x: 4, y: 30, point: true },
+                { x: 5, y: 70, point: false },
+                { x: 6, y: 200, point: true },
+                { x: 7, y: 90, point: true },
+                { x: 8, y: 40, point: true },
+                { x: 9, y: 10, point: false }
+            ];
+
+            //normalize data
+            for (i in data) {
+                data[i].y = 5.5 * data[i].y / 100;
+                data[i].id = i;
+
+                //console.log(data[i])
             }
 
-            //set cartesian plane
-            setGrid();
+            //define margin
+            var margin = { top: 10, right: 190, bottom: 275, left: 35 },
+                width = 915 - margin.left - margin.right,
+                height = 500 - margin.top - margin.bottom;
 
-            //set points on f(x)
 
-            //draw f(x)
+            var x = d3.scale.linear() //.time.scale()
+                .domain([1, 9])		// 9 stages
+                .range([0, width]);
 
-            //draw secant line
+            var y = d3.scale.linear()
+                .domain([0, 6])
+                .range([height, 0]);
 
-            //draw tangent line
+            var line = d3.svg.line()
+                .interpolate("monotone")
+                .x(function (d) { return x(d.x); })
+                .y(function (d) { return y(d.y); });
+
+            var svg = d3.select(".curveChart").append("svg")
+                .datum(data)
+                .attr("width", width + margin.left + margin.right)
+                .attr("height", height + margin.top + margin.bottom)
+                .append("g")
+                .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+            svg.append("path")
+                .attr("class", "line")
+                .attr("d", line);
+
+            console.log(svg);
 
         }
         catch (e) {
