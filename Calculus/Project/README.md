@@ -1,6 +1,6 @@
-## Closest Point on a Path and Its Tangent
+## Tangent to a Curve on Mousemove With d3.js and math.js
 
-https://bl.ocks.org/andresin87/cb9c53581cdac51718d5
+http://www.thesoftwaresimpleton.com/blog/2016/01/26/tangent/
 
 ##  Data-Driven Documents (D3 JavaScript)
 
@@ -13,4 +13,8 @@ https://github.com/d3
 ## D3.js Axes
 
 https://www.dashingd3js.com/d3js-axes
+
+## Math.js
+
+http://mathjs.org
 
