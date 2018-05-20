@@ -18,3 +18,7 @@ https://www.dashingd3js.com/d3js-axes
 
 http://mathjs.org
 
+## HTML5 Drag and Drop
+
+https://www.w3schools.com/html/html5_draganddrop.asp
+
