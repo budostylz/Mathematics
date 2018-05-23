@@ -10,3 +10,11 @@ https://www.youtube.com/watch?v=xnfUZ-NTsCE
 
 https://sciencing.com/slope-circle-8216787.html
 
+## section 0.3 7b
+
+https://www.desmos.com/calculator/wnlriwqoh1
+
+## The Difference Quotient - Example 1
+
+https://www.youtube.com/watch?v=1O5NEI8UuHM
+
