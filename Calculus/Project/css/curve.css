@@ -1,10 +1,17 @@
-﻿table, th, td {
-    border: 1px solid black;
-    margin-left:500px;
-
+﻿body {
+    font: 10px sans-serif;
 }
 
-th {
-    height: 500px;
+.bar rect {
+    shape-rendering: crispEdges;
 }
 
+.bar text {
+    fill: #999999;
+}
+
+.axis path, .axis line {
+    fill: none;
+    stroke: #000;
+    shape-rendering: crispEdges;
+}
