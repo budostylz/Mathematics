@@ -12,7 +12,7 @@ https://github.com/d3
 
 ## D3.js Axes
 
-https://www.dashingd3js.com/d3js-axes
+https://www.dashingd3js.com/table-of-contents
 
 ## Math.js
 
