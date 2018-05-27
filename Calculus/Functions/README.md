@@ -18,3 +18,11 @@ https://www.desmos.com/calculator/wnlriwqoh1
 
 https://www.youtube.com/watch?v=1O5NEI8UuHM
 
+## section 0.4 problem 19
+
+https://www.desmos.com/calculator/4oern3xe1i
+
+## section 0.4 problem 21
+
+https://www.desmos.com/calculator/sbxgyqfhtv
+
