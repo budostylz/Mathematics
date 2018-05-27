@@ -15,3 +15,7 @@
     stroke: #ff0000;
     shape-rendering: crispEdges;
 }
+
+.recs{
+    background-color:green;
+}
