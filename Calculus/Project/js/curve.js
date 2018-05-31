@@ -6,7 +6,7 @@ $(document).ready(function () {
 
 
         //Bolier Plate Code
-        //:https://www.mattlayman.com/2015/d3js-area-chart.html
+        //https://www.mattlayman.com/2015/d3js-area-chart.html
         //https://www.dashingd3js.com/svg-paths-and-d3js
         var data = [
             { x: 0, y: 0, },
@@ -42,10 +42,10 @@ $(document).ready(function () {
 
 
         //set curve properties
-        var area = d3.svg.area()
+        /*var area = d3.svg.area()
             .x(function (d) { return x(d.x); })
             .y0(300)
-            .y1(function (d) { return y(d.y); });
+            .y1(function (d) { return y(d.y); });*/
 
 
 
@@ -106,12 +106,6 @@ $(document).ready(function () {
             .attr("height", 30)
             .attr("fill", "blue")
             .attr("style", "stroke:pink");
-
-
-
-
-
-
 
 
 
