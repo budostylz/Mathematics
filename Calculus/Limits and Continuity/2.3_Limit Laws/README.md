@@ -22,6 +22,9 @@ https://www.youtube.com/watch?v=TUPkwGlrT8A
 
 https://www.youtube.com/watch?v=TUPkwGlrT8A
 
+## Finding a Limit of a Piecewise Function by Graphing
+
+https://www.youtube.com/watch?v=fjcHK6GGqm8
 
 
 

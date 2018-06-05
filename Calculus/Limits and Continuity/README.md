@@ -33,6 +33,10 @@ https://www.youtube.com/watch?v=4CVskVKquaA
 
 https://www.vitutor.com/calculus/limits/properties_infinity.html
 
+## Average and Instantaneous Velocity
+
+https://www.youtube.com/watch?v=uJ7140KZ3IU
+
 
 
 

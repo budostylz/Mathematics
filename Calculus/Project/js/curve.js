@@ -42,10 +42,10 @@ $(document).ready(function () {
 
 
         //set curve properties
-        /*var area = d3.svg.area()
+        var area = d3.svg.area()
             .x(function (d) { return x(d.x); })
             .y0(300)
-            .y1(function (d) { return y(d.y); });*/
+            .y1(function (d) { return y(d.y); });
 
 
 
@@ -76,9 +76,9 @@ $(document).ready(function () {
 
         //Make an SVG Container
         var svgContainer = d3.select("svg#area").append("svg")
-        .attr("width", 200)
-        .attr("height", 500);
-        
+            .attr("width", 900) //rectangle mwidths are dependent on this property
+            .attr("height", 500);
+
         //Draw the Rectangle
         var rec1 = svgContainer.append("rect")
             .attr("x", 70)
@@ -98,14 +98,87 @@ $(document).ready(function () {
             .attr("fill", "blue")
             .attr("style", "stroke:pink");
 
+
         //Draw the Rectangle
         var rec3 = svgContainer.append("rect")
-            .attr("x", 00)
-            .attr("y", 290)
+            .attr("x", 150)
+            .attr("y", 260)
             .attr("width", 50)
-            .attr("height", 30)
+            .attr("height", 60)
             .attr("fill", "blue")
             .attr("style", "stroke:pink");
+
+        //Draw the Rectangle
+        var rec3 = svgContainer.append("rect")
+            .attr("x", 200)
+            .attr("y", 230)
+            .attr("width", 50)
+            .attr("height", 90)
+            .attr("fill", "blue")
+            .attr("style", "stroke:pink");
+
+        //Draw the Rectangle
+        var rec3 = svgContainer.append("rect")
+            .attr("x", 250)
+            .attr("y", 200)
+            .attr("width", 50)
+            .attr("height", 120)
+            .attr("fill", "blue")
+            .attr("style", "stroke:pink");
+
+        //Draw the Rectangle
+        var rec3 = svgContainer.append("rect")
+            .attr("x", 300)
+            .attr("y", 170)
+            .attr("width", 50)
+            .attr("height", 150)
+            .attr("fill", "blue")
+            .attr("style", "stroke:pink");
+
+        //Draw the Rectangle
+        var rec3 = svgContainer.append("rect")
+            .attr("x", 350)
+            .attr("y", 140)
+            .attr("width", 50)
+            .attr("height", 180)
+            .attr("fill", "blue")
+            .attr("style", "stroke:pink");
+
+        //Draw the Rectangle
+        var rec3 = svgContainer.append("rect")
+            .attr("x", 400)
+            .attr("y", 110)
+            .attr("width", 50)
+            .attr("height", 210)
+            .attr("fill", "blue")
+            .attr("style", "stroke:pink");
+
+        //Draw the Rectangle
+        var rec3 = svgContainer.append("rect")
+            .attr("x", 450)
+            .attr("y", 80)
+            .attr("width", 50)
+            .attr("height", 240)
+            .attr("fill", "blue")
+            .attr("style", "stroke:pink");
+
+
+        
+
+        //Draw the Rectangle
+        var rec3 = svgContainer.append("rect")
+            .attr("x", 500)
+            .attr("y", 50)
+            .attr("width", 50)
+            .attr("height", 270)
+            .attr("fill", "blue")
+            .attr("style", "stroke:pink");
+
+        
+
+
+
+
 
 
 
