@@ -22,7 +22,7 @@ https://www.youtube.com/watch?v=ve3CEqnK8FQ
 
 https://www.youtube.com/watch?v=6AFT1wnId9U&t=319s
 
-## Section 1.3#5 Bisection Algorithm
+## Section 1.3#5 Graph Points for Bisection Algorithm Solution Set
 
 https://www.desmos.com/calculator/pomaguavii
 
