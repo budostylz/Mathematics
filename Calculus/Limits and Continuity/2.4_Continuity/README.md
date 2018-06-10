@@ -26,6 +26,10 @@ https://www.youtube.com/watch?v=6AFT1wnId9U&t=319s
 
 https://www.desmos.com/calculator/pomaguavii
 
+## Roots: Introduction and Bisection Method
+
+https://www.youtube.com/watch?v=PXSLcEGkXkU
+
 
 
 
