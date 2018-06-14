@@ -42,6 +42,12 @@ http://mathworld.wolfram.com/TangentLine.html
 
 http://mathworld.wolfram.com/SecantLine.html
 
+## Inverse Function Validations
+
+https://www.youtube.com/watch?v=oViSvSAUBKc
+
+https://www.youtube.com/watch?v=du_g_ReV19Q
+
 
 
 

@@ -46,6 +46,9 @@ https://www.calculatorsoup.com/calculators/math/roundingnumbers.php
 
 http://www.math.com/tables/geometry/volumes.htm
 
+## Quadratic Formula Calculator
+
+https://www.calculatorsoup.com/calculators/algebra/quadratic-formula-calculator.php
 
 
 
