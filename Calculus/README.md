@@ -35,6 +35,12 @@ https://www.symbolab.com/solver/derivative-calculator
 
 https://www.symbolab.com/solver/antiderivative-calculator
 
+## Logic to Get f(x+h) - f(x) / h via Difference Quotient
+
+https://www.youtube.com/watch?v=1O5NEI8UuHM&t=91s
+
+https://www.youtube.com/watch?v=v5P4y0OkED4
+
 
 
 
