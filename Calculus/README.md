@@ -41,6 +41,10 @@ https://www.youtube.com/watch?v=1O5NEI8UuHM&t=91s
 
 https://www.youtube.com/watch?v=v5P4y0OkED4
 
+## Intermediate Value Theorem
+
+https://www.youtube.com/watch?v=6AFT1wnId9U
+
 
 
 
