@@ -10,6 +10,10 @@ https://www.desmos.com/calculator/qxtliq55jj
 
 https://www.youtube.com/watch?v=Uataz2hvNks
 
+## Proof of the Derivative of e^x ( Definition of Derivative)
+
+https://www.youtube.com/watch?v=xOfaAp119hM
+
 
 
 
