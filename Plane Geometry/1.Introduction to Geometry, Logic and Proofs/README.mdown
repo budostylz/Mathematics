@@ -1,6 +1,6 @@
 ## 1.1 - Defining Terms, Distance & Midpoint Formuals	
 
-![Mid-point](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/Mid-Point.png "Mid-point")
+![Mid-point](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/Mid-Point2.png "Mid-point")
 
 ## 1.2 - Angles
 
@@ -14,5 +14,5 @@
 
 ## 1.7 - Slopes & Linear Equations	
 
-![Slope](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/Slope.png "Slope")
+![Slope](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/Slope2.png "Slope")
 
