@@ -22,6 +22,7 @@ https://www.youtube.com/watch?v=cX532N_XLIs
 
 http://www.socscistatistics.com/descriptive/histograms/
 
+## Formula Sheet
 
-![Formulas](https://github.com/budostylz/Mathematics/blob/master/Introduction%20to%20Statistics/formulaSheet-Tables.pdf "Formulas")
+https://github.com/budostylz/Mathematics/blob/master/Introduction%20to%20Statistics/formulaSheet-Tables.pdf
 
