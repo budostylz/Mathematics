@@ -23,5 +23,5 @@ https://www.youtube.com/watch?v=cX532N_XLIs
 http://www.socscistatistics.com/descriptive/histograms/
 
 
-![Formulas](https://github.com/budostylz/Mathematics/blob/master/Algebra/College%20Algebra/1.Review/Factor%20Flow%20Chart.png "Formulas")
+![Formulas](https://github.com/budostylz/Mathematics/blob/master/Introduction%20to%20Statistics/formulaSheet-Tables.pdf "Formulas")
 
