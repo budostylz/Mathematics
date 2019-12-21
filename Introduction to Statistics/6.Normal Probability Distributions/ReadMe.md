@@ -4,4 +4,4 @@
 
 ## 6.3 - Probabilities of Normal Random Variables	
 
-## 6.4 - Probability Using Technology (Optional)	6
+## 6.4 - Probability Using Technology 
