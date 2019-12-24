@@ -30,6 +30,12 @@
 
 ![Midpoint Problem2](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/midpoint-problem2.PNG "Midpoint Problem2")
 
+![Midpoint Problem3](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/midpoint-problem3.PNG "Midpoint Problem3")
+
+![MidRay](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/midray.PNG "MMidRay")
+
+
+
 
 
 
