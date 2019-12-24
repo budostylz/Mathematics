@@ -8,6 +8,12 @@
 
 ![Plane](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/plane.PNG "Plane")
 
+![Coplanar-Triangle](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/coplanar-triangle.PNG "Coplanar-Triangle")
+
+![Distance Formula](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/distance-formula.PNG "Distance Formula")
+
+
+
 
 
 
