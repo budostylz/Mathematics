@@ -12,6 +12,13 @@
 
 ![Distance Formula](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/distance-formula.PNG "Distance Formula")
 
+![Segment Problem-Method1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/segment-problem-method1.PNG "Segment Problem-Method1")
+
+![Segment Problem-Method1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/segment-problem-method_2.PNG "Segment Problem-Method1")
+
+![Segment Problem-Method1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/segment-problem-method_3.PNG "Segment Problem-Method1")
+
+
 
 
 
