@@ -18,6 +18,9 @@
 
 ![Segment Problem-Method1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/segment-problem-method1_3.PNG "Segment Problem-Method1")
 
+![Segment Problem Formula](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/segment-problem-formula.PNG "Segment Problem Formula")
+
+
 
 
 
