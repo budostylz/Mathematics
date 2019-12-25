@@ -52,6 +52,9 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Linear Pair](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/LinearPair-postulate1.21.PNG "Linear Pair")
 
+![Theorem 1.2.2 & 1.2.3](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/theorem1.2.2_theorem1.2.3.PNG "Theorem 1.2.2 & 1.2.3")
+
+
 
 
 
