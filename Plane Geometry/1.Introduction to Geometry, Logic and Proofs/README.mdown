@@ -42,6 +42,20 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Zero-Acute Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/zero_acute.PNG "Zero-Acute Angles")
 
+![Right-Obtuse Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/right_obtuse.PNG "Right-Obtuse Angles")
+
+![Stright-Congruent Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/straight_congruent.PNG "Stright-Congruent Angles")
+
+![Vertical-Angle Theorem](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/vertical-vertical_angle_theorem.PNG "Vertical-Angle Theorem")
+
+![Complementary-Supplementary](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/complementary-supplementary.PNG "Complementary-Supplementary")
+
+
+
+
+
+
+
 
 
 
