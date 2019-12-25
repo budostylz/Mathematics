@@ -32,13 +32,16 @@
 
 ![Midpoint Problem3](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/midpoint-problem3.PNG "Midpoint Problem3")
 
-![MidRay](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/midray.PNG "MMidRay")
+![MidRay](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/midray.PNG "MidRay")
 
 ### Solution 1.1
 
 https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/sol1.1.pdf
 
 ## 1.2 - Angles
+
+![Zero-Acute Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/zero_acute.PNG"Zero-Acute Angles")
+
 
 
 
