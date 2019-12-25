@@ -34,6 +34,11 @@
 
 ![MidRay](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/midray.PNG "MMidRay")
 
+### Solution 1.1
+
+https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/sol1.1.pdf
+
+
 
 
 
