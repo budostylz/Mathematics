@@ -8,7 +8,7 @@
 
 ![Plane](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/plane.PNG "Plane")
 
-![Coplanar-Triangle](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/coplanar-triangle.PNG "Coplanar-Triangle")
+![Coplanar-Triangle](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/coplanar-triangle.PNG "Coplanar-Triangle")
 
 ![Distance Formula](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/distance-formula.PNG "Distance Formula")
 
