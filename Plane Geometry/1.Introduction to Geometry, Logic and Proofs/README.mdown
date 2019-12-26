@@ -1,38 +1,38 @@
 ## 1.1 - Defining Terms, Distance & Midpoint Formuals	
 
-![Point and Line](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/point-and-line.PNG "Point and Line")
+![Point and Line](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/point-and-line.PNG "Point and Line")
 
-![Ray](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/ray.PNG "Ray")
+![Ray](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/ray.PNG "Ray")
 
-![Collinear-NonCollinear](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/collinear-noncollinear.PNG "Collinear-NonCollinear")
+![Collinear-NonCollinear](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/collinear-noncollinear.PNG "Collinear-NonCollinear")
 
-![Plane](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/plane.PNG "Plane")
+![Plane](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/plane.PNG "Plane")
 
-![Coplanar-Triangle](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/coplanar-triangle.PNG "Coplanar-Triangle")
+![Coplanar-Triangle](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/coplanar-triangle.PNG "Coplanar-Triangle")
 
-![Distance Formula](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/distance-formula.PNG "Distance Formula")
+![Distance Formula](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/distance-formula.PNG "Distance Formula")
 
-![Segment Problem-Method1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/segment-problem-method1.PNG "Segment Problem-Method1")
+![Segment Problem-Method1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/segment-problem-method1.PNG "Segment Problem-Method1")
 
-![Segment Problem-Method1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/segment-problem-method1_2.PNG "Segment Problem-Method1")
+![Segment Problem-Method1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/segment-problem-method1_2.PNG "Segment Problem-Method1")
 
-![Segment Problem-Method1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/segment-problem-method1_3.PNG "Segment Problem-Method1")
+![Segment Problem-Method1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/segment-problem-method1_3.PNG "Segment Problem-Method1")
 
-![Segment Problem Formula](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/segment-problem-formula.PNG "Segment Problem Formula")
+![Segment Problem Formula](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/segment-problem-formula.PNG "Segment Problem Formula")
 
-![Midpoint Formula](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/midpoint-formula.PNG "Midpoint Formula")
+![Midpoint Formula](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midpoint-formula.PNG "Midpoint Formula")
 
-![Midpoint Problem1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/midpoint-problem1.PNG "Midpoint Problem1")
+![Midpoint Problem1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midpoint-problem1.PNG "Midpoint Problem1")
 
-![Midpoint Problem1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/midpoint-problem1_2.PNG "Midpoint Problem1")
+![Midpoint Problem1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midpoint-problem1_2.PNG "Midpoint Problem1")
 
-![Midpoint Problem1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/midpoint-problem1_3.PNG "Midpoint Problem1")
+![Midpoint Problem1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midpoint-problem1_3.PNG "Midpoint Problem1")
 
-![Midpoint Problem2](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/midpoint-problem2.PNG "Midpoint Problem2")
+![Midpoint Problem2](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midpoint-problem2.PNG "Midpoint Problem2")
 
-![Midpoint Problem3](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/midpoint-problem3.PNG "Midpoint Problem3")
+![Midpoint Problem3](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midpoint-problem3.PNG "Midpoint Problem3")
 
-![MidRay](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/midray.PNG "MidRay")
+![MidRay](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midray.PNG "MidRay")
 
 ### Solution 1.1
 
