@@ -58,8 +58,6 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Theorem 1.2.6](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/theorem1.2.6.PNG "Theorem 1.2.6")
 
-![Exponent Rules](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/exponent_rules.PNG "Exponent Rules")
-
 
 
 

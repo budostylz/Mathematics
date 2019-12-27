@@ -49,6 +49,11 @@ https://www.youtube.com/watch?v=oViSvSAUBKc
 https://www.youtube.com/watch?v=du_g_ReV19Q
 
 
+![Exponent Rules](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/exponent_rules.PNG "Exponent Rules")
+
+![Exponent Rules](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/exponent_rules.PNG "Exponent Rules")
+
+
 
 
 
