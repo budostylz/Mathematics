@@ -53,6 +53,9 @@ https://www.youtube.com/watch?v=du_g_ReV19Q
 
 ![Exponent Rules](https://github.com/budostylz/Mathematics/blob/master/Algebra/exponentrules.png "Exponent Rules")
 
+![Algebraic Fractions](https://github.com/budostylz/Mathematics/blob/master/Algebra/algebraic_fractions.png "Algebraic Fractions")
+
+
 
 
 
