@@ -72,6 +72,11 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Syllogism](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/syllogism.PNG "Syllogism")
 
+![Negation](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/negation.PNG "Negation")
+
+
+
+
 
 
 
