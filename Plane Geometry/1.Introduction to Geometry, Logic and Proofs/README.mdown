@@ -76,6 +76,9 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Inverse](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/inverse.PNG "Inverse")
 
+![Contrapositive](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/contrapositive.PNG "Contrapositive")
+
+
 
 
 
