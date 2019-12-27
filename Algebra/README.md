@@ -55,6 +55,9 @@ https://www.youtube.com/watch?v=du_g_ReV19Q
 
 ![Algebraic Fractions](https://github.com/budostylz/Mathematics/blob/master/Algebra/algebraic_fractions.PNG "Algebraic Fractions")
 
+![Radical Rules](https://github.com/budostylz/Mathematics/blob/master/Algebra/radical_rules.PNG "Radical Rules")
+
+
 
 
 
