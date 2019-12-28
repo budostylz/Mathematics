@@ -90,6 +90,9 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Transitive](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/transitive.PNG "Transitive")
 
+![Additive](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/additive.PNG "Additive")
+
+
 
 
 
