@@ -6,6 +6,16 @@ https://en.wikipedia.org/wiki/Euclidean_geometry
 
 https://en.wikipedia.org/wiki/Euclid%27s_Elements
 
+## Five Postulates of Euclidean Geometry
+
+1. A straight line segment may be drawn from any given point to any other.
+2. A straight line may be extended to any finite length.
+3. A circle may be described with any given point as its center and any distance as its radius.
+4. All right angles are congruent.
+5. If a straight line intersects two other straight lines, and so makes the two interior angles on one side of it together less than two right angles, then the other straight lines will meet at a point if extended far enough on the side on which the angles are less than two right angles.
+
+
+
 ## Greek alphabet
 
 https://en.wikipedia.org/wiki/Greek_alphabet
