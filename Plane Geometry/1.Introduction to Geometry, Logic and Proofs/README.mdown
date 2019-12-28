@@ -78,23 +78,15 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Contrapositive](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/contrapositive.PNG "Contrapositive")
 
+### Solution 1.3
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/sol1.3.pdf
 
 ## 1.4 - Algebra Properties	
+
+
+
+
 
 ## 1.5 - Introduction to Proofs	
 
