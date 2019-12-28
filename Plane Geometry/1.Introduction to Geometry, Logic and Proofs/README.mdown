@@ -84,7 +84,9 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ## 1.4 - Algebra Properties	
 
-![Contrapositive](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/contrapositive.PNG "Contrapositive")
+![Reflexive](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/reflexive.PNG "Reflexive")
+
+
 
 
 
