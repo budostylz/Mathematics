@@ -123,6 +123,9 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Formal Proofs](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1%2C5_Introduction%20to%20Proofs/formal_proofs.PNG "Formal Proofs")
 
+![Direct Proof Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1%2C5_Introduction%20to%20Proofs/direct_proof_example.PNG "Direct Proof Example")
+
+
 
 
 
