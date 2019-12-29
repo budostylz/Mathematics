@@ -109,13 +109,18 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/hw_problems.docx?raw=true
 
+### Solution 1.4
 
-
-
-
-
+https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/sol1.4.pdf
 
 ## 1.5 - Introduction to Proofs	
+
+![Definition, Postulate, Theorem](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/definition_postulate_theorem.PNG "Definition, Postulate, Theorem")
+
+
+
+
+
 
 ## 1.6 - Angles Formed by Transversal, Parallel and Perpendicular Lines	
 
