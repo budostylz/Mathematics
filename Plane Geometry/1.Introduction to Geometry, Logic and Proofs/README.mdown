@@ -117,17 +117,17 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Definition, Postulate, Theorem](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/definition_postulate_theorem.PNG "Definition, Postulate, Theorem")
 
-![Postulates](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1%2C5_Introduction%20to%20Proofs/postulates.PNG "Postulates")
+![Postulates](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/postulates.PNG "Postulates")
+.
+![Postulates & Theorems](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/postulates_theorems.PNG "Postulates & Theorems")
 
-![Postulates & Theorems](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1%2C5_Introduction%20to%20Proofs/postulates_theorems.PNG "Postulates & Theorems")
+![Formal Proofs](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/formal_proofs.PNG "Formal Proofs")
 
-![Formal Proofs](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1%2C5_Introduction%20to%20Proofs/formal_proofs.PNG "Formal Proofs")
+![Direct Proof Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/direct_proof_example.PNG "Direct Proof Example")
 
-![Direct Proof Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1%2C5_Introduction%20to%20Proofs/direct_proof_example.PNG "Direct Proof Example")
+![Direct Proof Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/direct_proof_example.PNG "Direct Proof Example")
 
-![Direct Proof Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1%2C5_Introduction%20to%20Proofs/direct_proof_example.PNG "Direct Proof Example")
-
-![Direct Proof Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1%2C5_Introduction%20to%20Proofs/direct_proof_example2.PNG "Direct Proof Example")
+![Direct Proof Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/direct_proof_example2.PNG "Direct Proof Example")
 
 ### Practice 1.5
 
