@@ -115,7 +115,7 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ## 1.5 - Introduction to Proofs	
 
-![Definition, Postulate, Theorem](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/definition_postulate_theorem.PNG "Definition, Postulate, Theorem")
+![Definition, Postulate, Theorem](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1%2C5_Introduction%20to%20Proofs/definition_postulate_theorem.PNG "Definition, Postulate, Theorem")
 
 
 
