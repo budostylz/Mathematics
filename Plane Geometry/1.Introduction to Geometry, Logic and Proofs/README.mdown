@@ -119,6 +119,9 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Postulates](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1%2C5_Introduction%20to%20Proofs/postulates.PNG "Postulates")
 
+![Postulates & Theorems](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1%2C5_Introduction%20to%20Proofs/postulates_theorems.PNG "Postulates & Theorems")
+
+
 
 
 

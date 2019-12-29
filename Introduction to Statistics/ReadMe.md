@@ -26,3 +26,7 @@ http://www.socscistatistics.com/descriptive/histograms/
 
 https://github.com/budostylz/Mathematics/blob/master/Introduction%20to%20Statistics/formulaSheet-Tables.pdf
 
+## Combinations and Ordered Combinations aka Permutations
+
+https://www.mathplanet.com/education/algebra-2/discrete-mathematics-and-probability/permutations-and-combinations
+
