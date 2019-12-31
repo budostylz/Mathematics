@@ -163,6 +163,10 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![More Theorems & Postulates](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/more_theorems_and_postulates.PNG "More Theorems & Postulates")
 
+![Perpendicular Lines](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/perpendicular_lines.PNG "Perpendicular Lines")
+
+
+
 
 
 
