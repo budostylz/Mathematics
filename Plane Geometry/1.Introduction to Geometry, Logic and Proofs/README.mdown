@@ -144,7 +144,7 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Alternate Interior Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/alternate_interior_angles.PNG "Alternate Interior Angles")
 
-![Alternate Exterior Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/alternate_exterior_angles "Alternate Exterior Angles")
+![Alternate Exterior Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/alternate_exterior_angles.PNG "Alternate Exterior Angles")
 
 
 
