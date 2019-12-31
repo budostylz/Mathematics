@@ -146,6 +146,16 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Alternate Exterior Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/alternate_exterior_angles.PNG "Alternate Exterior Angles")
 
+![Corresponding Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/corresponding_angles.PNG "Corresponding Angles")
+
+![Corresponding Exterior-Interior Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/corresponding_exterior-interior_angles.PNG "Corresponding Exterior-Interior Angles")
+
+
+
+
+
+
+
 
 
 ### Practice 1.6
