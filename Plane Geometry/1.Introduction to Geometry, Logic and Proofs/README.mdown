@@ -154,6 +154,9 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Theorem 1.6.1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/theorem1.6.1.PNG "Theorem 1.6.1")
 
+![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/ex1.PNG "Example")
+
+
 
 
 
