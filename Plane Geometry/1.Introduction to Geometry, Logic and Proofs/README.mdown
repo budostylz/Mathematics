@@ -105,13 +105,15 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Additive](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/additive.PNG "Additive")
 
-### Practice 1.4
 
-https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/hw_problems.docx?raw=true
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/hw_problems.docx?raw=true">Practice 1.4</a>
 
-### Solution 1.4
 
-https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/sol1.4.pdf
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/sol1.4.pdf">Solution 1.4</a>
+
+
+
+
 
 ## 1.5 - Introduction to Proofs	
 
