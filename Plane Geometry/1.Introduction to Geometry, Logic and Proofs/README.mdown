@@ -34,13 +34,9 @@
 
 ![MidRay](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midray.PNG "MidRay")
 
-### Practice 1.1
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/hw_problems.docx?raw=true">Practice 1.1</a>
 
-https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/hw_problems.docx?raw=true
-
-### Solution 1.1
-
-https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/sol1.1.pdf
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/sol1.1.pdf">Solution 1.1</a>
 
 ## 1.2 - Angles
 
@@ -62,13 +58,11 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 ![Theorem 1.2.6](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/theorem1.2.6.PNG "Theorem 1.2.6")
 
-### Practice 1.2
 
-https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/hw_problems.docx?raw=true
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/hw_problems.docx?raw=true">Practice 1.2</a>
 
-### Solution 1.2
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/sol1.2.pdf">Solution 1.2</a>
 
-https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/sol1.2.pdf
 
 ## 1.3 - Logic Statements	
 
