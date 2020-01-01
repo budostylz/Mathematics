@@ -87,13 +87,14 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 ![Contrapositive](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/contrapositive.PNG "Contrapositive")
 
 
-### Practice 1.3
 
-https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry,%20Logic%20and%20Proofs/1.1_Defining%20Terms,%20Distance%20&%20Midpoint%20Formulas/hw_problems.docx?raw=true
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry,%20Logic%20and%20Proofs/1.1_Defining%20Terms,%20Distance%20&%20Midpoint%20Formulas/hw_problems.docx?raw=true">Practice 1.3</a>
 
-### Solution 1.3
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/sol1.3.pdf">Solution 1.3</a>
 
-https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/sol1.3.pdf
+
+
+
 
 ## 1.4 - Algebra Properties	
 
@@ -110,10 +111,6 @@ https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduc
 
 
 <a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/sol1.4.pdf">Solution 1.4</a>
-
-
-
-
 
 ## 1.5 - Introduction to Proofs	
 
