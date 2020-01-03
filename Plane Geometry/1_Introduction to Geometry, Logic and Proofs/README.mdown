@@ -1,0 +1,173 @@
+## 1.1 - Defining Terms, Distance & Midpoint Formuals	
+
+![Point and Line](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/point-and-line.PNG "Point and Line")
+
+
+![Ray](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/ray.PNG "Ray")
+
+![Collinear-NonCollinear](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/collinear-noncollinear.PNG "Collinear-NonCollinear")
+
+![Plane](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/plane.PNG "Plane")
+
+![Coplanar-Triangle](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/coplanar-triangle.PNG "Coplanar-Triangle")
+
+![Distance Formula](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/distance-formula.PNG "Distance Formula")
+
+![Segment Problem-Method1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/segment-problem-method1.PNG "Segment Problem-Method1")
+
+![Segment Problem-Method1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/segment-problem-method1_2.PNG "Segment Problem-Method1")
+
+![Segment Problem-Method1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/segment-problem-method1_3.PNG "Segment Problem-Method1")
+
+![Segment Problem Formula](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/segment-problem-formula.PNG "Segment Problem Formula")
+
+![Midpoint Formula](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midpoint-formula.PNG "Midpoint Formula")
+
+![Midpoint Problem1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midpoint-problem1.PNG "Midpoint Problem1")
+
+![Midpoint Problem1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midpoint-problem1_2.PNG "Midpoint Problem1")
+
+![Midpoint Problem1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midpoint-problem1_3.PNG "Midpoint Problem1")
+
+![Midpoint Problem2](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midpoint-problem2.PNG "Midpoint Problem2")
+
+![Midpoint Problem3](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midpoint-problem3.PNG "Midpoint Problem3")
+
+![MidRay](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/midray.PNG "MidRay")
+
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/hw_problems.docx?raw=true">Practice 1.1</a>
+
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/sol1.1.pdf">Solution 1.1</a>
+
+## 1.2 - Angles
+
+![Zero-Acute Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/zero_acute.PNG "Zero-Acute Angles")
+
+![Right-Obtuse Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/right_obtuse.PNG "Right-Obtuse Angles")
+
+![Stright-Congruent Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/straight_congruent.PNG "Stright-Congruent Angles")
+
+![Vertical-Angle Theorem](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/vertical-vertical_angle_theorem.PNG "Vertical-Angle Theorem")
+
+![Complementary-Supplementary](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/complementary-supplementary.PNG "Complementary-Supplementary")
+
+![Linear Pair](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/LinearPair-postulate1.21.PNG "Linear Pair")
+
+![Theorem 1.2.2 & 1.2.3](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/theorem1.2.2_theorem1.2.3.PNG "Theorem 1.2.2 & 1.2.3")
+
+![Theorem 1.2.4 & 1.2.5](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/theorem1.2.4_theorem1.2.5.PNG "Theorem 1.2.4 & 1.2.5")
+
+![Theorem 1.2.6](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/theorem1.2.6.PNG "Theorem 1.2.6")
+
+
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/hw_problems.docx?raw=true">Practice 1.2</a>
+
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.2_Angles/sol1.2.pdf">Solution 1.2</a>
+
+
+## 1.3 - Logic Statements	
+
+![Conditional](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/conditional.PNG "Conditional")
+
+![Converse](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/converse.PNG "Converse")
+
+![Bi-Conditional](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/biconditional.PNG "Bi-Conditional")
+
+![Syllogism](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/syllogism.PNG "Syllogism")
+
+![Negation](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/negation.PNG "Negation")
+
+![Inverse](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/inverse.PNG "Inverse")
+
+![Contrapositive](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/contrapositive.PNG "Contrapositive")
+
+
+
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry,%20Logic%20and%20Proofs/1.1_Defining%20Terms,%20Distance%20&%20Midpoint%20Formulas/hw_problems.docx?raw=true">Practice 1.3</a>
+
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.3_Logic%20Statements/sol1.3.pdf">Solution 1.3</a>
+
+
+
+
+
+## 1.4 - Algebra Properties	
+
+![Reflexive](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/reflexive.PNG "Reflexive")
+
+![Symmetric](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/symmetric.PNG "Symmetric")
+
+![Transitive](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/transitive.PNG "Transitive")
+
+![Additive](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/additive.PNG "Additive")
+
+
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/hw_problems.docx?raw=true">Practice 1.4</a>
+
+
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.4_Algebra%20Propeties/sol1.4.pdf">Solution 1.4</a>
+
+## 1.5 - Introduction to Proofs	
+
+![Definition, Postulate, Theorem](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/definition_postulate_theorem.PNG "Definition, Postulate, Theorem")
+
+![Postulates](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/postulates.PNG "Postulates")
+.
+![Postulates & Theorems](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/postulates_theorems.PNG "Postulates & Theorems")
+
+![Formal Proofs](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/formal_proofs.PNG "Formal Proofs")
+
+![Direct Proof Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/direct_proof_example.PNG "Direct Proof Example")
+
+![Direct Proof Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/direct_proof_example.PNG "Direct Proof Example")
+
+![Direct Proof Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/direct_proof_example2.PNG "Direct Proof Example")
+
+
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry,%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/hw_problems.docx?raw=true">Practice 1.5</a>
+
+
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.5_Introduction%20to%20Proofs/sol1.5.pdf">Solution 1.5</a>
+
+
+
+
+
+## 1.6 - Angles Formed by Transversal, Parallel and Perpendicular Lines	
+
+![Traversal](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/transversal.PNG "Traversal")
+
+![Alternate Interior Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/alternate_interior_angles.PNG "Alternate Interior Angles")
+
+![Alternate Exterior Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/alternate_exterior_angles.PNG "Alternate Exterior Angles")
+
+![Corresponding Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/corresponding_angles.PNG "Corresponding Angles")
+
+![Corresponding Exterior-Interior Angles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/corresponding_exterior-interior_angles.PNG "Corresponding Exterior-Interior Angles")
+
+![Parallel Lines, Postulate 1.6.1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/parallel_lines-postulate1.6.1.PNG "Parallel Lines, Postulate 1.6.1")
+
+![Theorem 1.6.1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/theorem1.6.1.PNG "Theorem 1.6.1")
+
+![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/ex1.PNG "Example")
+
+![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/ex2.PNG "Example")
+
+
+![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/ex3.PNG "Example")
+
+![More Theorems & Postulates](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/more_theorems_and_postulates.PNG "More Theorems & Postulates")
+
+![Perpendicular Lines](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/perpendicular_lines.PNG "Perpendicular Lines")
+
+
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry,%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal,%20Parallel%20and%20Perpendicular%20Lines/hw_problems.docx?raw=true">Practice 1.6</a>
+
+
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/sol1.6.pdf">Solution 1.6</a>
+
+
+## 1.7 - Slopes & Linear Equations	
+
+![Slope of a Line](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.7_Slopes%20%26%20Linear%20Equations/Slope.png "Slope of a Line")
+
