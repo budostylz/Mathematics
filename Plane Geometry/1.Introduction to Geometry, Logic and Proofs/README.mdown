@@ -2,6 +2,7 @@
 
 ![Point and Line](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/point-and-line.PNG "Point and Line")
 
+
 ![Ray](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/ray.PNG "Ray")
 
 ![Collinear-NonCollinear](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.1_Defining%20Terms%2C%20Distance%20%26%20Midpoint%20Formulas/collinear-noncollinear.PNG "Collinear-NonCollinear")
@@ -166,11 +167,10 @@
 <a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.6_Angles%20Formed%20by%20Transversal%2C%20Parallel%20and%20Perpendicular%20Lines/sol1.6.pdf">Solution 1.6</a>
 
 
-
-
-
-
 ## 1.7 - Slopes & Linear Equations	
 
-![Slope](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/Slope2.png "Slope")
+![Slope of a Line](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.7_Slopes%20%26%20Linear%20Equations/Slope.png "Slope of a Line")
+
+![Example of Slope](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.7_Slopes%20%26%20Linear%20Equations/ex1.png "Example of Slope")
+
 
