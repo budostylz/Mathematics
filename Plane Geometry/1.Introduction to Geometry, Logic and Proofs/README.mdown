@@ -175,5 +175,10 @@
 
 ![Slope Formula](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.7_Slopes%20%26%20Linear%20Equations/slope_formula.PNG "Slope Formula")
 
+![Equation of Line](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.7_Slopes%20%26%20Linear%20Equations/equation_of_line.PNG "Equation of Line")
+
+
+
+
 
 
