@@ -189,6 +189,12 @@
 
 ![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.7_Slopes%20%26%20Linear%20Equations/ex2.2.PNG "Example")
 
+![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.7_Slopes%20%26%20Linear%20Equations/ex3.1.PNG "Example")
+
+![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.7_Slopes%20%26%20Linear%20Equations/ex3.2.PNG "Example")
+
+
+
 
 
 
