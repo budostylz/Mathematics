@@ -2,6 +2,12 @@
 
 ![Perpendicular Bisector](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/perpendicular_bisector.PNG "Perpendicular Bisector")
 
+![Angle Bisector](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/angle_bisector.PNG "Angle Bisector")
+
+
+![Median](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/median.PNG "Median")
+
+
 ## 2.2 - Similar Triangles	
 
 ## 2.3 - Corresponding Parts and Congruency of Triangles	
