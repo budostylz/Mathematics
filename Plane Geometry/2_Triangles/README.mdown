@@ -1,6 +1,6 @@
 ## 2.1 Segments in a Triangle
 
-![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.7_Slopes%20%26%20Linear%20Equations/ex3.2.PNG "Example")
+![Perpendicular Bisector](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/perpendicular_bisector.PNG "Perpendicular Bisector")
 
 ## 2.2 - Similar Triangles	
 
