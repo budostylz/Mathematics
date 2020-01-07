@@ -13,6 +13,26 @@
 
 ![Mid-Segment Theorems](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/mid-segment_theorems.PNG "Mid-Segment Theorems")
 
+![Centroid Proof](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/p1.PNG "Centroid Proof")
+
+![Centroid Proof](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/p2.PNG "Centroid Proof")
+
+![Centroid Proof](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/p3.PNG "Centroid Proof")
+
+![Centroid Proof](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/p4.PNG "Centroid Proof")
+
+![Centroid Proof](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/p5.PNG "Centroid Proof")
+
+![Centroid Proof](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/p6.PNG "Centroid Proof")
+
+![Centroid Proof](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/p7.PNG "Centroid Proof")
+
+![Centroid Proof](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/p8.PNG "Centroid Proof")
+
+![Triangle Inequality](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/triangle_inequality.PNG "Triangle Inequality")
+
+
+
 
 
 
