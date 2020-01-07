@@ -1,3 +1,7 @@
+## 2.1 Segments in a Triangle
+
+![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/1.Introduction%20to%20Geometry%2C%20Logic%20and%20Proofs/1.7_Slopes%20%26%20Linear%20Equations/ex3.2.PNG "Example")
+
 ## 2.2 - Similar Triangles	
 
 ## 2.3 - Corresponding Parts and Congruency of Triangles	
