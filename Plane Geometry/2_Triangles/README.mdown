@@ -11,6 +11,10 @@
 
 ![Mid-Segment](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/mid-segment.PNG "Mid-Segment")
 
+![Mid-Segment Theorems](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/mid-segment_theorems.PNG "Mid-Segment Theorems")
+
+
+
 
 
 
