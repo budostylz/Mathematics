@@ -7,6 +7,9 @@
 
 ![Median](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/median.PNG "Median")
 
+![Altitude](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/altitude.PNG "Altitude")
+
+
 
 ## 2.2 - Similar Triangles	
 
