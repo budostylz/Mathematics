@@ -14,7 +14,9 @@ https://en.wikipedia.org/wiki/Euclid%27s_Elements
 4. All right angles are congruent.
 5. If a straight line intersects two other straight lines, and so makes the two interior angles on one side of it together less than two right angles, then the other straight lines will meet at a point if extended far enough on the side on which the angles are less than two right angles.
 
+## Euclid's Algorithm
 
+https://www.youtube.com/watch?v=AJn843kplDw
 
 ## Greek alphabet
 
