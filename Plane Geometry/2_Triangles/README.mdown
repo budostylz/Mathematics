@@ -31,14 +31,15 @@
 
 ![Triangle Inequality](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/triangle_inequality.PNG "Triangle Inequality")
 
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/hw.docx?raw=true">Practice 2.1</a>
 
-
-
-
-
+<a href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.1_Segments%20in%20a%20Triangle/sol.pdf">Solution 2.1</a>
 
 
 ## 2.2 - Similar Triangles	
+
+![Triangle Inequality](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/similar_triangles.PNG "Triangle Inequality")
+
 
 ## 2.3 - Corresponding Parts and Congruency of Triangles	
 
