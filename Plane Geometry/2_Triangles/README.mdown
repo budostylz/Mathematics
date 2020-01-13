@@ -38,7 +38,19 @@
 
 ## 2.2 - Similar Triangles	
 
-![Triangle Inequality](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/similar_triangles.PNG "Triangle Inequality")
+![Similar Triangles](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/similar_triangles.PNG "Similar Triangles")
+
+![Pos 2.2.1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/postulate2.2.1.PNG "Pos 2.2.1")
+
+![Similar Triangles & Theorem 2.2.1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/similar_trianglr_props_theorem2.2.1.PNG "Similar Triangles & Theorem 2.2.1")
+
+
+
+
+
+
+
+
 
 
 ## 2.3 - Corresponding Parts and Congruency of Triangles	
