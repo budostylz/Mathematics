@@ -42,10 +42,11 @@
 
 ![Pos 2.2.1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/postulate2.2.1.PNG "Pos 2.2.1")
 
-![Similar Triangles & Theorem 2.2.1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/similar_trianglr_props_theorem2.2.1.PNG "Similar Triangles & Theorem 2.2.1")
+![Similar Triangles & Theorem 2.2.1](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/similar_triangle_props_AAA_similarity.PNG "Similar Triangles & Theorem 2.2.1")
 
+![SSS Similarity](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/SSS_similarity.PNG "SSS Similarity")
 
-
+![SAS Similarity](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/SAS_Similarity.PNG "SAS Similarity")
 
 
 
