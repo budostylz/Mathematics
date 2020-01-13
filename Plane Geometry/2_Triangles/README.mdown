@@ -48,6 +48,12 @@
 
 ![SAS Similarity](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/SAS_Similarity.PNG "SAS Similarity")
 
+![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/ex1.PNG "Example")
+
+![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/ex2.PNG "Example")
+
+
+
 
 
 
