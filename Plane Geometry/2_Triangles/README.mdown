@@ -73,9 +73,9 @@
 
 ![Example ](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.3_Corresponding%20Parts%20and%20Congruency%20of%20Triangles/ex1.PNG "Example")
 
-![SSA ](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.3_Corresponding%20Parts%20and%20Congruency%20of%20Triangles/ssa1.PNG "SSA")
+![SSA ](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.3_Corresponding%20Parts%20and%20Congruency%20of%20Triangles/SSA1.PNG "SSA")
 
-![SSA ](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.3_Corresponding%20Parts%20and%20Congruency%20of%20Triangles/ssa2.PNG "SSA")
+![SSA ](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.3_Corresponding%20Parts%20and%20Congruency%20of%20Triangles/SSA2.PNG "SSA")
 
 
 
