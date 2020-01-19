@@ -55,16 +55,14 @@
 ![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/ex3.PNG "Example")
 
 
+<a target="_blank" href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/hw.docx?raw=true">Practice 2.2</a>
+
+<a target="_blank" href="https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.2_Similar%20Triangles/sol.pdf">Solution 2.2</a>
 
 
+## 2.3 - Corresponding Parts and Congruency of Triangles
 
 
-
-
-
-
-
-## 2.3 - Corresponding Parts and Congruency of Triangles	
 
 ## 2.4 - Right Triangle and Pythagorean Theorem	
 
