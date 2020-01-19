@@ -69,6 +69,8 @@
 
 
 
+
+
 ## 2.4 - Right Triangle and Pythagorean Theorem	
 
 ## 2.5 - Isosceles and Equilateral Triangles	
