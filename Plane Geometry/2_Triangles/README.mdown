@@ -66,6 +66,9 @@
 
 ![AAS, Right Triangle](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.3_Corresponding%20Parts%20and%20Congruency%20of%20Triangles/aas_right-triangle.PNG "AAS, Right Triangle")
 
+![HL, Summary](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.3_Corresponding%20Parts%20and%20Congruency%20of%20Triangles/HL_summary.PNG "HL, Summary")
+
+
 
 
 
