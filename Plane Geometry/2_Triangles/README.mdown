@@ -64,7 +64,6 @@
 
 ![CPCTC](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.3_Corresponding%20Parts%20and%20Congruency%20of%20Triangles/CPCTC.PNG "CPCTC")
 
-
 ![SSS, SAS, ASA](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.3_Corresponding%20Parts%20and%20Congruency%20of%20Triangles/pos_sss_sas_asa.PNG "SSS, SAS, ASA")
 
 ![AAS, Right Triangle](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.3_Corresponding%20Parts%20and%20Congruency%20of%20Triangles/aas_right-triangle.PNG "AAS, Right Triangle")
@@ -84,6 +83,10 @@
 ![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/ex1.PNG "Example")
 
 ![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/ex2.PNG "Example")
+
+![Pythagorean Triple](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/ex2.PNG "Pythagorean Triple")
+
+
 
 
 
