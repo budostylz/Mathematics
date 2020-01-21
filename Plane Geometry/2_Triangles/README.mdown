@@ -81,6 +81,11 @@
 
 ![Right Triangle](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/pythagorean_theorem.PNG "Right Triangle")
 
+![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/ex1.PNG "Example")
+
+![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/ex2.PNG "Example")
+
+
 
 ## 2.5 - Isosceles and Equilateral Triangles	
 
