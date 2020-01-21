@@ -84,7 +84,7 @@
 
 ![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/ex2.PNG "Example")
 
-![Pythagorean Triple](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/ex2.PNG "Pythagorean Triple")
+![Pythagorean Triple](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/pythagorean_triple.PNG "Pythagorean Triple")
 
 
 
