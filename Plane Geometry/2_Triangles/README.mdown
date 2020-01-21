@@ -86,6 +86,11 @@
 
 ![Pythagorean Triple](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/pythagorean_triple.PNG "Pythagorean Triple")
 
+![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/ex3.PNG "Example")
+
+![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/ex4.PNG "Example")
+
+
 
 
 
