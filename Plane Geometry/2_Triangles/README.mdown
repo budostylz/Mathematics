@@ -90,6 +90,16 @@
 
 ![Example](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/ex4.PNG "Example")
 
+![Pythagorean Proof](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/pythagorean_proof1.PNG "Pythagorean Proof")
+
+![Pythagorean Proof](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/pythagorean_proof2.PNG "Pythagorean Proof")
+
+![Pythagorean Proof](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/pythagorean_proof3.PNG "Pythagorean Proof")
+
+![Pythagorean Proof](https://github.com/budostylz/Mathematics/blob/master/Plane%20Geometry/2_Triangles/2.4_Right%20Triangle%20and%20Pythagorean%20Theorem/pythagorean_proof4.PNG "Pythagorean Proof")
+
+
+
 
 
 
