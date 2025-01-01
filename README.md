@@ -50,6 +50,9 @@ http://www.math.com/tables/geometry/volumes.htm
 
 https://www.calculatorsoup.com/calculators/algebra/quadratic-formula-calculator.php
 
+## Animated Math
+[3Blue1Brown](https://www.youtube.com/c/3blue1brown)
+
 
 
 
